@@ -1,7 +1,7 @@
 /////////////////////////////////////////////exercice 1//////////////////////////////////////////////////////
 // part 1
 function infoAboutMe(){
-  console.log("je suis diarrassouba seydou,j'ai 25 ans, je joue au football");
+  console.log("je suis yves  armand,j'ai 28 ans, je joue au football");
 } 
 infoAboutMe()
 
@@ -17,7 +17,7 @@ infoAboutPerson("Joe", 12, "yellow")
 
 function calculateTip(){
   
-  let facture =prompt("   John quel est le montant de la facture?" )
+  let facture =prompt("John quel est le montant de la facture?")
   facture = parseFloat(facture)
   let pourboire;
   if(facture < 50 ){
